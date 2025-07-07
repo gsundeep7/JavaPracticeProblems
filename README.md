@@ -19,6 +19,7 @@ This repo contains the Java Practice Problems
 ➝ Formula: Perimeter = 4 * side
 
 🔸 Intermediate Level:
+
 11. Write a program to calculate the average of three numbers.
 12. Write a program to calculate the area and perimeter of a rectangle using instance variables.
 13. Write a program to demonstrate local, instance, and static variables.
