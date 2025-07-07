@@ -1,5 +1,6 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to add two integer numbers and display the result.
 public class addtwointegers {
 
     public static void main(String [] args){
