@@ -34,6 +34,7 @@ This repo contains the Java Practice Problems
 20. Write a program to show how boolean variables work with logical operations.
 
 🔸 Challenge Level:
+
 21. Write a program to accept two numbers and display the maximum and minimum number.
 22. Write a program to convert seconds into hours, minutes, and seconds.
 23. Write a program to calculate BMI (Body Mass Index).
