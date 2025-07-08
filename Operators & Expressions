@@ -1,0 +1,42 @@
+-------------Java Practice Questions on Operators & Expressions------------------
+
+🔹 Arithematic Logical Operator
+1.	Take a number and check whether it is even or odd using the modulus operator.
+________________________________________
+🔹 Relational and Logical Operators
+2.	Accept three numbers and find the largest using relational and logical operators.
+3.	Check if a number is positive, negative, or zero using if-else or ternary operator.
+4.	Check if a number is divisible by both 3 and 5.
+5.	Accept a year and check whether it is a leap year using logical operators.
+________________________________________
+🔹 Ternary Operator
+6.	Find the maximum of two numbers using the ternary operator.
+7.	Find the absolute value of a number using a ternary operator.
+8.	Accept marks and assign pass/fail using the ternary operator.
+________________________________________
+🔹 Assignment and Compound Operators
+9.	Write a program to demonstrate the use of +=, -=, *=, /=, and %= with integer variables.
+10.	Demonstrate pre-increment and post-increment operators and print the values before and after.
+________________________________________
+🔹 Bitwise Operators
+11.	Write a program to demonstrate bitwise AND, OR, XOR operations.
+12.	Find whether a given number is odd or even using bitwise AND operator (&).
+13.	Left shift and right shift a number by 2 positions and display the result.
+________________________________________
+🔹 Expression Evaluation
+14.	Evaluate and print the result of the following expression:
+java
+CopyEdit
+int result = 10 + 20 * 30 / 5 % 3 - 1;
+15.	Rewrite the following if-else as a ternary expression:
+java
+CopyEdit
+if (a > b)
+   max = a;
+else
+   max = b;
+________________________________________
+🔹 Challenge Questions
+16.	Accept 5 subject marks, calculate percentage, and print grade using expressions and conditions.
+17.	Evaluate the result of a complex expression combining arithmetic, logical, and relational operators.
+
