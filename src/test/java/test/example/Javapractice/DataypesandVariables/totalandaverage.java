@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to calculate the total and average marks of 5 subjects.
+
 public class totalandaverage {
 
     int subject1;

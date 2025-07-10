@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to show how boolean variables work with logical operations
+
 public class booleanwithlogicaloperators {
     public static void main(String[] args) {
         boolean a = true;

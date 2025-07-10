@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to convert minutes into hours and minutes. ➝ Example: 150 minutes = 2 hours and 30 minutes
+
 public class mintuestohoursminutes {
 
     public static void main(String [] args)

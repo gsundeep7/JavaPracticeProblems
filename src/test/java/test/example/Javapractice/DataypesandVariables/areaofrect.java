@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to calculate the area of a rectangle. ➝ Formula: area = length * width
+
 public class areaofrect {
 
     public static void main(String[] args)

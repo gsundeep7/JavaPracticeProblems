@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to demonstrate the difference between float and double with precision.
+
 public class FloatDoublePrecision {
     public static void main(String[] args) {
         // Declare float and double values

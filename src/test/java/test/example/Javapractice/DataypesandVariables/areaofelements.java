@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to compute the area of different shapes like circle, rectangle, and triangle by using different variables.
+
 public class areaofelements {
     public static void main(String [] args) {
 

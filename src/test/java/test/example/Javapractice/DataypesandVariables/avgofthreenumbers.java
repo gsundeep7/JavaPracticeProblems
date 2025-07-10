@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to calculate the average of three numbers.
+
 public class avgofthreenumbers {
 
     public static void main(String [] args)

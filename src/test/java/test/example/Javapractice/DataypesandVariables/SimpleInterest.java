@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to calculate Simple Interest. ➝ Formula: SI = (P * T * R) / 100
+
 public class SimpleInterest {
 
     public static void main(String[] args)

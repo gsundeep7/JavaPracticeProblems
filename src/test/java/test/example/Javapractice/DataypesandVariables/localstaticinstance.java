@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to demonstrate local, instance, and static variables.
+
 public class localstaticinstance {
 
     String s = "Sundeep";

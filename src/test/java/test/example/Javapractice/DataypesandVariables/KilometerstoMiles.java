@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to convert distance from kilometers to miles.
+
 public class KilometerstoMiles {
 
     public static void main(String[] args){

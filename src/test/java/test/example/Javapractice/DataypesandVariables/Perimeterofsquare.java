@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to calculate the perimeter of a square. ➝ Formula: Perimeter = 4 * side
+
 public class Perimeterofsquare {
 
     public static void main(String[] args)

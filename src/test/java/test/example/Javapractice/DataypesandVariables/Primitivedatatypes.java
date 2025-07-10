@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to declare all primitive data types and print their values.
+
 public class Primitivedatatypes {
 
     public static void main(String[] args)

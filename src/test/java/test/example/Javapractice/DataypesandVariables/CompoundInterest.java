@@ -1,5 +1,6 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to calculate compound interest. ➝ Formula: CI = P*(1 + R/100)^T - P
 
 public class CompoundInterest {
 

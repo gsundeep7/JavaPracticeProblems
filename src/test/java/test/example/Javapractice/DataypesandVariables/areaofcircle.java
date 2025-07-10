@@ -1,5 +1,7 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to calculate the area of a circle. ➝ Formula: area = π * r * r
+
 public class areaofcircle {
 
     public static void main(String[] args)

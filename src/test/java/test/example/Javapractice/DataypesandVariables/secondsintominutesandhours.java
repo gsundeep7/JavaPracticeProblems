@@ -1,5 +1,6 @@
 package test.example.Javapractice.DataypesandVariables;
 
+//Write a program to convert seconds into hours, minutes, and seconds.
 
 public class secondsintominutesandhours {
 
