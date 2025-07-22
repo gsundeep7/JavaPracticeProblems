@@ -1,5 +1,7 @@
 package test.example.Javapractice.ControlStatements;
 
+//Control Statments -- Check if a number is Armstrong.
+
 public class Armstrong {
         public static void main(String[] args) {
             int number = 124;  // You can change this to test other numbers

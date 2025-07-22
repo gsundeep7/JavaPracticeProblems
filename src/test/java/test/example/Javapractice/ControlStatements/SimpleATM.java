@@ -1,6 +1,8 @@
 package test.example.Javapractice.ControlStatements;
 import java.util.Scanner;
 
+//Control Statement -- Menu-driven program using switch and loops (ATM, Calculator, etc.).
+
 public class SimpleATM {
 
     public static void main(String[] args) {

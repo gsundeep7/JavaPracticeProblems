@@ -1,5 +1,7 @@
 package test.example.Javapractice.ControlStatements;
 
+//Control Statments -- Check if a number is perfect.
+
 public class PerfectNumber {
 
     public static void main(String[] args) {
