@@ -1,0 +1,87 @@
+------------Methods---------------
+This file contains Practice Questions for methods
+
+✅ **Basic Level**
+
+1. **Write a method to print "Hello, World!"**
+
+   * No parameters
+   * Return type: `void`
+
+2. **Write a method to calculate the square of a number.**
+
+   * Parameter: `int num`
+   * Return type: `int`
+
+3. **Create a method to add two numbers and return the result.**
+
+   * Parameters: `int a, int b`
+   * Return type: `int`
+
+4. **Write a method that takes a name as input and prints "Hello, \[name]!"**
+
+   * Parameter: `String name`
+   * Return type: `void`
+
+5. **Create a method that checks if a number is even or odd.**
+
+   * Parameter: `int number`
+   * Return type: `String` (return "Even" or "Odd")
+
+---
+
+## 🔁 **Intermediate Level**
+
+6. **Write a method to calculate the factorial of a number.**
+
+   * Parameter: `int n`
+   * Return type: `long`
+
+7. **Write a method that returns the maximum of three numbers.**
+
+   * Parameters: `int a, int b, int c`
+   * Return type: `int`
+
+8. **Write a method to check if a number is prime.**
+
+   * Parameter: `int num`
+   * Return type: `boolean`
+
+9. **Write a method to reverse a string.**
+
+   * Parameter: `String str`
+   * Return type: `String`
+
+10. **Create a method to convert temperature from Celsius to Fahrenheit.**
+
+    * Parameter: `double celsius`
+    * Return type: `double`
+
+---
+
+## 🔁 **Advanced Method Practice**
+
+11. **Create overloaded methods for calculating area:**
+
+* `area(int side)` → for square
+* `area(int length, int breadth)` → for rectangle
+* `area(double radius)` → for circle
+
+12. **Write a method to check whether a given string is a palindrome.**
+
+    * Parameter: `String str`
+    * Return type: `boolean`
+
+13. **Create a calculator class with methods for add, subtract, multiply, and divide.**
+
+    * Each method takes two numbers and returns a result
+
+14. **Create a method that counts the number of vowels in a string.**
+
+    * Parameter: `String input`
+    * Return type: `int`
+
+15. **Write a method to print the Fibonacci series up to N terms.**
+
+    * Parameter: `int n`
+    * Return type: `void`
