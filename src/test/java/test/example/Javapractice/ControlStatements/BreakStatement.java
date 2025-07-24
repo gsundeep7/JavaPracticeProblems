@@ -1,4 +1,4 @@
-package test.example.Javapractice;
+package test.example.Javapractice.ControlStatements;
 
 //Jump Statements -- 	Print numbers from 1 to 10 but stop when number is 6 (use break).
 
