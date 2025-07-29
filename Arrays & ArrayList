@@ -1,0 +1,63 @@
+--------------------------Arrays & ARrayList-----------------------------
+This file contains practice questions for Arrays & ArrayList
+
+Here are some **Java practice questions on arrays**, ranging from basic to intermediate level. These will help you strengthen your understanding of array concepts.
+
+---
+
+## ✅ **Beginner Level**
+
+1. **Print all elements of an array**
+   ```java
+   int[] numbers = {10, 20, 30, 40, 50};
+   ```
+2. **Find the sum of all elements in an array**
+3. **Find the maximum and minimum element in an array**
+4. **Count even and odd numbers in an array**
+5. **Reverse the elements of an array**
+   * Input: `{1, 2, 3, 4, 5}`
+   * Output: `{5, 4, 3, 2, 1}`
+---
+
+## ✅ **Intermediate Level**
+
+6. **Check if a given element is present in the array**
+   * Use linear search
+7. **Copy one array into another array**
+8. **Sort an array in ascending and descending order**
+   * Without using built-in methods
+9. **Find the second largest element in an array**
+10. **Remove duplicates from an array**
+---
+
+## ✅ **Advanced Level**
+
+11. **Check if an array is a palindrome**
+* Example: `{1, 2, 3, 2, 1}` → `true`
+12. **Merge two arrays into one**
+13. **Find the frequency of each element in an array**
+14. **Left rotate the elements of an array by 1 or k positions**
+* Input: `{1, 2, 3, 4, 5}`, k=2 → Output: `{3, 4, 5, 1, 2}`
+15. **Find the common elements between two arrays**
+---
+
+## ✅ Example Question with Solution
+
+**Question:** Find the sum of all elements in an array
+
+```java
+public class SumArray {
+    public static void main(String[] args) {
+        int[] nums = {10, 20, 30, 40};
+        int sum = 0;
+
+        for (int num : nums) {
+            sum += num;
+        }
+
+        System.out.println("Sum: " + sum);  // Output: 100
+    }
+}
+```
+
+---
