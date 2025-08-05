@@ -60,4 +60,67 @@ public class SumArray {
 }
 ```
 
+-------------------------------------------**ArrayList**-----------------------------------------------------------------
+
+## ✅ **Basic Level Questions**
+
+1. **Create an ArrayList of Strings and add 5 names. Print them using a loop.**
+
+2. **Insert an element at the first and last position of an ArrayList.**
+
+3. **Remove an element by index and by value from an ArrayList.**
+
+4. **Check if a specific element exists in an ArrayList.**
+
+5. **Replace the second element of an ArrayList with a new value.**
+
+6. **Get the size of the ArrayList and print all elements.**
+
+7. **Iterate over an ArrayList using:**
+
+   * `for` loop
+   * `for-each` loop
+   * `Iterator`
+
+## 🔁 **Intermediate Level Questions**
+
+8. **Create two ArrayLists and merge them.**
+
+9. **Find the index of a specific element in an ArrayList.**
+
+10. **Sort an ArrayList in ascending and descending order.** (Using `Collections.sort()`)
+
+11. **Clone an ArrayList into another ArrayList.**
+
+12. **Clear all elements from an ArrayList.**
+
+13. **Create an ArrayList of integers and print only even numbers.**
+
+14. **Create an ArrayList of custom objects (e.g., Students with `name`, `id`) and print names of all students.**
+
+## 🔍 **Advanced Practice**
+
+15. **Remove all duplicate elements from an ArrayList.**
+
+16. **Find the frequency of an element in an ArrayList.**
+
+17. **Reverse the elements of an ArrayList without using built-in methods.**
+
+18. **Find the second largest element in an ArrayList of integers.**
+
+19. **Split an ArrayList into two halves.**
+
+20. **Swap two elements in an ArrayList (e.g., 2nd and 4th element).**
+
+## 🚀 Bonus Challenges
+
+21. **Convert an ArrayList to an Array and vice versa.**
+
+22. **Convert an ArrayList to a HashSet to remove duplicates.**
+
+23. **Filter strings in an ArrayList that start with a specific letter.**
+
+24. **Write a program to input 10 integers using Scanner and store them in an ArrayList. Then find the sum and average.**
+
 ---
+
