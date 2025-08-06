@@ -2,7 +2,7 @@ package test.example.Javapractice.Arrays;
 
 //Find the maximum and minimum element in an array
 
-public class Maxofarray {
+public class MaxandMin {
 
     public static void main(String[] args) {
 
