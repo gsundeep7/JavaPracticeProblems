@@ -1,5 +1,7 @@
 package test.example.Javapractice.Arrays;
 
+//**Remove duplicates from an array**
+
 public class RemoveDuplicates {
 
     public static void main(String[] args) {
